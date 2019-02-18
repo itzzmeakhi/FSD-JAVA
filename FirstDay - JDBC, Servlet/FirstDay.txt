@@ -1,0 +1,92 @@
+
+
+
+
+
+
+Driver
+mysql connector 5.1.21
+
+
+Connection Establishment
+
+
+Execute Query
+
+
+Processing Query
+
+
+Closing Resources
+
+
+// Interfaces and Classes
+
+Driver
+DriverManager
+Statement
+Result
+Connection
+
+
+DriverManager.getConnection()
+Class.forName(Register class)
+Connection
+getConnection
+
+ResultSetMetaData
+getMetaData()
+
+createStatement()
+
+executeQuery()
+executeUpdate()
+execute()
+
+getColumnCount()
+getColumnName()
+getColumnTypeName()
+
+rs.next()
+rs.getString()
+rs.getInt()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+J2EE
+
+Servlet
+JSP
+JSF
+JMS
+JNDI
+JPA
+JAXP
+EJB
+
+Genric Servlet (protocol 
+HTTP Servlet
+
