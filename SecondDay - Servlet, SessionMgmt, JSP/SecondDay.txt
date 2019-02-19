@@ -1,0 +1,36 @@
+Ctrl + s
+
+ctrl + shift + F
+
+ctrl + space
+
+ctrl + F11
+
+ctrl + shift + o
+
+
+SESSION
+
+URL rewriting
+
+Cookies
+
+Hidden Form Fields
+
+HttpSessionAPI
+
+JSP - java server pages
+
+JSP tags
+
+scriplet Tag <% %> - n lines ; end of each line
+
+declarative Tag <%! %> - n lines ;
+
+Expression Tag <%= %> - single line no semi colon
+
+Directive Tag <%@  %> - one line
+
+action tags <jsp:actionName>  </jsp>
+
+git config --global http.sslVerify false
