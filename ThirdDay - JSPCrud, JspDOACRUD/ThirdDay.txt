@@ -1,0 +1,9 @@
+CRUD - CREATE READ UPDATE DELETE
+
+CRUD Using CRUD
+
+CRUD USING JSP DAO - data access object
+
+Bean Class
+
+constructor - get/set method
