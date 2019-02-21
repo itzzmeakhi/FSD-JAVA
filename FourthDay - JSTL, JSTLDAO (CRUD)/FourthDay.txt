@@ -1,0 +1,12 @@
+JSTL - JSP STANDARAD TAG LIBRARY
+
+Custom Tags 
+
+jstl1.2.jar
+
+Expresion Language
+
+${  }
+
+
+${param.dept_id}
