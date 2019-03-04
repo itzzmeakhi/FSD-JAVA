@@ -1,0 +1,25 @@
+Hibernate
+
+SQL Independant
+HQL - Hibernate Query Language
+
+ORM - Object Relational MApping
+
+JPA - Java Persistance API
+
+EntityBean - XML, Annotations
+
+Persistance, Serialization
+
+JPA - Specification
+
+EclipseLink
+Generics
+Hiberante
+
+Annotations - Meta Data gives more info abt code to JVM.
+@, properties/State, Methods and class
+1.5
+
+JPA Facet
+
